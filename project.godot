@@ -20,7 +20,7 @@ config/icon="res://icon.png"
 
 [gdnative]
 
-singletons=[ "res://addons/pythonscript.gdnlib" ]
+singletons=[ "res://addons/python/pythonscript.gdnlib" ]
 
 [rendering]
 
