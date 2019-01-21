@@ -15,12 +15,12 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Superium"
+config/name="Generic Project"
 config/icon="res://icon.png"
 
 [gdnative]
 
-singletons=[ "res://addons/godot-python/platforms/pythonscript.gdnlib" ]
+singletons=[ "res://addons/pythonscript.gdnlib" ]
 
 [rendering]
 
